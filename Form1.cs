@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //11111114423234
+            //1
             //222222544213432
             //333337632123
             //4444991232
