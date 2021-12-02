@@ -23,7 +23,6 @@ namespace WindowsFormsApp1
             //222222544213432
             //333337632123
             //4444991232
-            //novoe izmenenie
-        }
+               }
     }
 }
